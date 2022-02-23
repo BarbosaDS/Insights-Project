@@ -29,6 +29,7 @@ As quatro preocupações básicas do cientista de dados são disputa de dados, e
 
 Suas variáveis são: 
 
+Variável | Definição
 ------------ | -------------
 |id | Núemro identificador de cada imóvel.|
 |date | Data em que a propriedade ficou a venda.|
