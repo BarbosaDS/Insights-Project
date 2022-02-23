@@ -94,7 +94,22 @@ Quais ferramentas serão usadas no processo?
 
 ## Detalhamento da solução:
 
-Todo o meu Dashboard foi criado com o intuíto de ser um App de visualização. Nele, a empresa pode selecionar a condição do imóvel e o zipcode o qual deseja análisar os dados e automaticamente irá retornar o lucro total da venda dos imóveis nas condições escolhidas. 
+Todo o meu Dashboard foi criado com o intuíto de ser um App de visualização. Nele, a empresa pode selecionar a condição do imóvel e o zipcode o qual deseja análisar os dados e automaticamente irá retornar o lucro total da venda dos imóveis nas condições escolhidas. Além disso, nele contém:
+
+ - Tabela contendo todos os imóveis do catálogo e suas caracteristicas. Podendo filtrar suas características atráves de um menu lateral
+ - Tabela contendo uma análise descritiva (valor mínimo, máximo, médio, mediano e desvio padrão) de cada variável do portfólio
+ - Hipóteses criadas através dos dados validadas em verdadeiras ou falsas
+ - Uma tabela contendo os imóveis sugeridos para compra
+ - Tabelas, mapas e gráfico interativos, mostrando várias métricas como lucro, sazonalidade entre outros. Baseados totalmente na escolha de imóveis do usuário
+ - Mapa de densidade de preço e localização dos imóveis escolhidos
+ - Gráfico interativo de preço médio por ano de construção do imóvel.
+ - Gráfico interativo de preço médio por dia de construção do imóvel
+ - Gráfico contendo a distribuição de números de quartos,banheiros,andares e vista para a água. Podendo filtrar todos os valores existentes em cada variável.
+ - Gráficos comparando valores das variáveis, e definindo qual valor contem a quantidade de imóveis que trará maior lucro pós venda.
+ - 
+Baseado nas minhas análises dos dados. Responderei as duas perguntas requisitadas:
+
+
 
 Através das minhas análises baseadas em sazonalidade e máximização de lucro na venda, os 5 imóveis os quais terão o maior lucro após suas vendas são os seguintes: 
 
