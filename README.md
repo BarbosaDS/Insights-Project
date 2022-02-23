@@ -18,7 +18,7 @@ Essa análise tem como tarefas principais:
 - Quais são os imóveis que a House Rocket deveria comprar?
 - Uma vez a casa comprada, qual o melhor momento para vendê-las e por qual preço?
 
-O trabalho de um Data Scientist, vai muito além de tratar uma enorme quantidade de dados. O principal objetivo dele, é gerar valor com esses dados, dar um objetivo e projetar um retorno financeiro com eles. 
+O trabalho de um Data Scientist, vai muito além de tratar uma enorme quantidade de dados. O principal objetivo dele, é gerar valor com esses dados, dar um sentido e projetar um retorno financeiro com eles. 
 
 As quatro preocupações básicas do cientista de dados são disputa de dados, engenharia de recursos, modelagem e relatórios de resultados. Entretanto, o objetivo desse projeto é exclusivamente, tratar os dados e gerar insights através dele. Apesar de simplório, irei mostrar como a maioria dos problemas que nós, cientistas, lidamos, são resolvidos com coneitos básicos e regras básicas.
 
