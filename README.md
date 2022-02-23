@@ -98,5 +98,6 @@ Todo o meu Dashboard foi criado com o intuíto de ser um App de visualização. 
 
 Através das minhas análises baseadas em sazonalidade e máximização de lucro na venda, os 5 imóveis os quais terão o maior lucro após suas vendas são os seguintes: 
 
+<img src="https://github.com/BarbosaDS/Insights-Project/blob/fbc8bc9bac9b77caffee5e93890e95069783baaa/data.head.png">
 
 
