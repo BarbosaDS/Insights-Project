@@ -122,11 +122,23 @@ Todo o meu Dashboard foi criado com o intuíto de ser um App de visualização. 
 
 ## Disponibilização de Dashboard
 
-Todas minhas análises baseadas no tópico anterior, além de todas as funcionalidades já ditas do dashboard, pode ser consultadas através desse link:  [<img alt="Heroku" src="https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white"/>](https://barbosag-analytics.herokuapp.com/)
+Link para o dashboard:  [<img alt="Heroku" src="https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white"/>](https://barbosag-analytics.herokuapp.com/)
 
+Todas minhas análises baseadas no tópico anterior, além de todas as funcionalidades já ditas do dashboard, podem ser conferidas lá.
 
-Através das minhas análises baseadas em sazonalidade e máximização de lucro na venda, os 5 imóveis os quais terão o maior lucro após suas vendas são os seguintes: 
+## Principais Insights das análises:
+
+1. Os imóveis com vista pra água são em média 212% mais caros
+
+ - Insight : Usando o critério da sazonliadade, sabemos que certos imóveis tendem a cair de preço a depender da estação de ano em que se encontra. Prospectar para comprar imóveis com vista para a água quando os mesmos estiverem mais baratos, e vender na estação que mais será valorizado.
+ 
+2. Quanto maior o número de banheiros, maior será o preço
+
+- Insight: Analisando o dataframe, vimos que quanto mais banheiros, mais caro será o imóvel. Entretanto, tem imóveis com muitos banheiros que não seguem o padrão de preço dos demais,estão muito mais baratos. Tendo essa analise em vista, prospectar imóveis cujo o preço não seja equivalene aos demais, tendo em vista a quantidade de banheiros. Analisar o que o faz ser mais barato e ver formas de valorizar o seu preço na revenda.
+
+3. Através das análises, concluímos que os 5 imóveis que trarão mais lucro na revenda sejam esses:
 
 <img src="https://github.com/BarbosaDS/Insights-Project/blob/fbc8bc9bac9b77caffee5e93890e95069783baaa/data.head.png">
+
 
 
