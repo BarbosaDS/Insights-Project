@@ -143,7 +143,7 @@ Todas minhas análises baseadas no tópico anterior, além de todas as funcional
 
 ## Conclusão:
 
-O principal objetivo do projeto era o de encontrar imóveis para compra e revenda e fazer uma análise de maximização de lucro de todas as vendas. Todos os desafios propostos foram cumpridos, então o objetivo do projeto foi alcançado. O dashboard posto em produção pode ser acesso via navegador, tanto no celular ou computador pelo [Heroku](https://barbosag-analytics.herokuapp.com/)
+O principal objetivo do projeto era o de encontrar imóveis para compra e revenda. Além disso fazer uma análise de maximização de lucro de todas as vendas. Todos os desafios propostos foram cumpridos, então o objetivo do projeto foi alcançado. O dashboard posto em produção pode ser acesso via navegador, tanto no celular ou computador pelo [Heroku](https://barbosag-analytics.herokuapp.com/)
 
 ## Próximos passos
 
