@@ -36,6 +36,7 @@ Variável | Definição
 |season | estação do ano/sazonalidade que a propriedade ficou a venda.|
 |price | Preço de compra de cada imóvel.|
 |price_median_season | Preço de compra de cada imóvel.|
+|profit | Lucro da empresa, após a venda de determinado imóvel.|
 |bedrooms | Número de quartos.|
 |bathrooms | O número de banheiros, o valor 0,5 indica um quarto com banheiro, mas sem chuveiro. O valor 0,75 ou 3/4 banheiro representa um banheiro que contém uma pia, um vaso sanitário e um chuveiro ou banheira.|
 |sqft_living | Pés quadrados do interior das casas.|
@@ -71,3 +72,28 @@ Variável | Definição
 
 - Todo o Planejamento da solução será discutido e análisado pelo time de negócios da empresa.
 
+- Iremos análisar imóveis que esteja em condições apenas boas, médias e perfeitas.
+
+## Ferramentas
+
+Quais ferramentas serão usadas no processo?
+
+- Python 3.9.5
+- IDE Pycharm
+- Streamlit
+- Heroku
+- Jupyter Notebook
+
+## Planejamento da Solução:
+
+- Coleta dos dados
+- Visualização e limpeza dos dados
+- Realizar a análise exploratória dos dados
+- Gerar insights e validar
+- Criar um dashboard com todos meus insights e colocar em produção
+
+## Detalhamento da solução:
+
+Todo o meu Dashboard foi criado com o intuíto de ser um App de visualização. Nele, a empresa pode selecionar a condição do imóvel e o zipcode o qual deseja análisar os dados e automaticamente irá retornar o lucro total da venda dos imóveis nas condições escolhidas. 
+
+Através das minhas análises baseadas em sazonalidade e máximização de lucro na venda, os 5 imóveis os quais terão o maior lucro após suas vendas são os seguintes: 
