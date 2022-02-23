@@ -54,14 +54,14 @@ Variável | Definição
 |sqft_living15 | O tamanho médio em pés quadrados do espaço interno de habitação para as 15 casas mais próximas.|
 |sqft_lot15 | Tamanho médio dos terrenos em metros quadrados para as 15 casas mais próximas.|
 
+*Além do dataset acima citado, foi utilizado um arquivo geojson para a criação de mapas de densidade. A API foi extraída do site ArcGIS Hub.*
+
 ## Limpeza de dados feitas:
 
 - Foi verificado que existem diversos ID's repetidos no dataset, esses foram removidos.
 
--Foi identificado um Outlier e o mesmo foi removido. Se trata de um imóvel o qual o número de quartos estava muito descrepante dos padrões do dataset.
+- Foi identificado um Outlier e o mesmo foi removido. Se trata de um imóvel o qual o número de quartos estava muito descrepante dos padrões do dataset.
 
-
-*Além do dataset acima citado, foi utilizado um arquivo geojson para a criação de mapas de densidade. A API foi extraída do site ArcGIS Hub.*
 
 ## Premissas de negócio:
 
