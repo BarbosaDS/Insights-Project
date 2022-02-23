@@ -10,7 +10,7 @@ A House Rocket é uma empresa do ramo imobiliário. A qual tem como função, co
 Essa análise tem como tarefas principais:
 
 - Selecionar os imóveis com as melhores condições para a compra e venda.
-- Criar um Dashboard iterativo no Heroku. O qual o CEO da empresa possa análisar ele mesmo os imóveis
+- Criar um Dashboard interativo no Heroku. O qual o CEO da empresa possa análisar ele mesmo os imóveis
 - Trazer insights de négocio a partir dos dados disponíveis do catálogo
 
 ## Perguntas de Negócio
