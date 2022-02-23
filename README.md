@@ -106,9 +106,23 @@ Todo o meu Dashboard foi criado com o intuíto de ser um App de visualização. 
  - Gráfico interativo de preço médio por dia de construção do imóvel
  - Gráfico contendo a distribuição de números de quartos,banheiros,andares e vista para a água. Podendo filtrar todos os valores existentes em cada variável.
  - Gráficos comparando valores das variáveis, e definindo qual valor contem a quantidade de imóveis que trará maior lucro pós venda.
- - 
-Baseado nas minhas análises dos dados. Responderei as duas perguntas requisitadas:
+ 
+ ## Respondendo as perguntas de negócio:
+ 
+1. Para responder a seguinte pergunta :"Quais são os imóveis que a House Rocket deveria comprar?", levamos em conta dois critétios para análise:
+ 
+ - Só iremos avaliar imóveis em boas condições pra cima. Tendo em vista que imóveis com condições ruins demandam reforma o que aumentaria ainda mais o preço destinado para compra
+ - Todos os imóveis que seráo destinados para compra, serão aqueles o qual o preço de venda esteja abaixo do preço médio de venda daquela região. Por naturalmente sofrer uma valorização regional.
+ 
+2. Para responder a seguinte pergunta : "Uma vez a casa comprada, qual o melhor momento para vendê-las e por qual preço?", iremos definir duas condições para definição do preço de venda:
+ 
+ - Se o preço da compra for maior que a mediana da região + sazonalidade. O preço da venda será igual ao preço da compra + 10%
+ 
+ - Se o preço da compra for menor que a mediana da região + sazonalidade. O preço da venda será igual ao preço da compra + 30%
 
+## Disponibilização de Dashboard
+
+Todas minhas análises baseadas no tópico anterior, além de todas as funcionalidades já ditas do dashboard, pode ser consultadas através desse link:  [<img alt="Heroku" src="https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white"/>](https://barbosag-analytics.herokuapp.com/)
 
 
 Através das minhas análises baseadas em sazonalidade e máximização de lucro na venda, os 5 imóveis os quais terão o maior lucro após suas vendas são os seguintes: 
