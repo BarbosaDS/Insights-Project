@@ -130,15 +130,29 @@ Todas minhas análises baseadas no tópico anterior, além de todas as funcional
 
 1. Os imóveis com vista pra água são em média 212% mais caros
 
- - Insight : Usando o critério da sazonliadade, sabemos que certos imóveis tendem a cair de preço a depender da estação de ano em que se encontra. Prospectar para comprar imóveis com vista para a água quando os mesmos estiverem mais baratos, e vender na estação que mais será valorizado.
+ - Insight : Usando o critério da sazonalidade, sabemos que certos imóveis tendem a cair de preço a depender da estação de ano em que se encontra. Prospectar para comprar imóveis com vista para a água quando os mesmos estiverem mais baratos, e vender na estação que mais será valorizado.
  
 2. Quanto maior o número de banheiros, maior será o preço
 
-- Insight: Analisando o dataframe, vimos que quanto mais banheiros, mais caro será o imóvel. Entretanto, tem imóveis com muitos banheiros que não seguem o padrão de preço dos demais,estão muito mais baratos. Tendo essa analise em vista, prospectar imóveis cujo o preço não seja equivalene aos demais, tendo em vista a quantidade de banheiros. Analisar o que o faz ser mais barato e ver formas de valorizar o seu preço na revenda.
+- Insight: Analisando o dataframe, vimos que quanto mais banheiros, mais caro será o imóvel. Entretanto, tem imóveis com muitos banheiros que não seguem o padrão de preço dos demais,estão muito mais baratos. Tendo essa analise em vista, prospectar imóveis cujo o preço esteja abaixo dos demais, tendo em vista a quantidade de banheiros. Analisar o que o faz ser mais barato e ver formas de valorizar o seu preço na revenda.
 
 3. Através das análises, concluímos que os 5 imóveis que trarão mais lucro na revenda sejam esses:
 
 <img src="https://github.com/BarbosaDS/Insights-Project/blob/fbc8bc9bac9b77caffee5e93890e95069783baaa/data.head.png">
 
 
+## Conclusão:
 
+O principal objetivo do projeto era o de encontrar imóveis para compra e revenda e fazer uma análise de maximização de lucro de todas as vendas. Todos os desafios propostos foram cumpridos, então o objetivo do projeto foi alcançado. O dashboard posto em produção pode ser acesso via navegador, tanto no celular ou computador pelo [Heroku](https://barbosag-analytics.herokuapp.com/)
+
+## Próximos passos
+
+Melhorias nos dashboards e projetos podem ser incrementados em projetos futuros:
+
+* Analisamos imóveis apenas com qualidade boa para melhor. Altas oportunidades podem ter sido perdidas em casas de menores qualidades
+* Pode ser criado um boot via telegram onde ao botar o ID da casa apareça todas as informações sobre elas, inclusive o lucro pós venda.
+* Caso tenha alguma melhoria para me sugerir, pode me contactar através do meu [LinkeldIn](https://www.linkedin.com/in/gabriel-barbosa-80a50a18a/)
+
+Made By Gabriel Barbosa
+[Portfólio](https://barbosads.github.io/portfolio_projetos/)
+[LinkeldIn](https://www.linkedin.com/in/gabriel-barbosa-80a50a18a/)
